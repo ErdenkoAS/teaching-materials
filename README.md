@@ -17,3 +17,5 @@
 
 - **Email:** erdenko.vm@gmail.com
 - **Telegram:** @iznaroda
+
+© Александр Эрденко. Материалы распространяются на условиях [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
